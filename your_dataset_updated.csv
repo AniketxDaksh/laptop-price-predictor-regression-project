@@ -1,0 +1,106 @@
+ID,Age,Gender,Education,Employment Status,Income,BMI,Family History of Depression,Past History of Depression,"Clinical Scores (PHQ-9, GAD-7)",Sleep Duration (hours),Physical Activity (minutes/week),Alcohol Consumption (drinks/week),Smoking Status,Social Support (score),Life Stressors (score),Coping Strategies (score),Cognitive Biases (score),Personality Traits (score),Depression Diagnosis
+1,35,Male,Masters,Employed full-time,70000,23.4,No,Yes,"10, 12",7,150,2,Never,7,12,35,45,30,Yes
+2,42,Female,Bachelors,Employed part-time,35000,29.8,Yes,No,"4, 6",6,90,4,Former,6,8,25,20,35,No
+3,28,Non-binary,Associates,Unemployed,0,21.1,No,No,"2, 3",8,120,0,Never,4,5,40,50,25,No
+4,50,Male,High School,Retired,30000,31.2,No,No,"8, 7",5,30,10,Current,5,15,20,30,40,Yes
+5,38,Female,PhD,Employed full-time,90000,24.5,Yes,Yes,"14, 15",6,180,5,Never,9,18,50,60,20,Yes
+201,26,Female,College,Unemployed,45100,18.6,No,No,"1, 5",7,90,Never,Never,4,6,22,35,39,No
+202,27,Male,High School,Unemployed,45200,18.7,No,No,"2, 6",8,120,Never,Current,5,7,24,37,42,No
+203,28,Female,High School,Unemployed,45300,18.8,Yes,No,"3, 0",9,150,Never,Current,6,8,26,25,45,No
+204,29,Male,College,Unemployed,45400,18.9,No,Yes,"4, 1",7,60,Occasional,Never,4,5,28,27,30,No
+205,30,Female,High School,Employed full-time,45500,18.5,No,No,"0, 2",8,90,Never,Former,5,6,20,29,33,No
+206,31,Male,High School,Unemployed,45600,18.6,No,No,"1, 3",9,120,Never,Current,6,7,22,31,36,No
+207,32,Female,College,Unemployed,45700,18.7,No,No,"2, 4",7,150,Never,Never,4,8,24,33,39,No
+208,33,Male,High School,Unemployed,45800,18.8,No,No,"3, 5",8,60,Occasional,Current,5,5,26,35,42,Yes
+209,34,Female,High School,Unemployed,45900,18.9,No,No,"4, 6",9,90,Never,Current,6,6,28,37,45,No
+210,25,Male,College,Employed full-time,46000,18.5,Yes,Yes,"0, 0",7,120,Never,Never,4,7,20,25,30,No
+211,26,Female,High School,Unemployed,46100,18.6,No,No,"1, 1",8,150,Never,Current,5,8,22,27,33,No
+212,27,Male,High School,Unemployed,46200,18.7,No,No,"2, 2",9,60,Occasional,Current,6,5,24,29,36,No
+213,28,Female,College,Unemployed,46300,18.8,No,No,"3, 3",7,90,Never,Never,4,6,26,31,39,No
+214,29,Male,High School,Unemployed,46400,18.9,No,No,"4, 4",8,120,Never,Current,5,7,28,33,42,No
+215,30,Female,High School,Employed full-time,46500,18.5,No,No,"0, 5",9,150,Never,Former,6,8,20,35,45,No
+216,31,Male,College,Unemployed,46600,18.6,No,Yes,"1, 6",7,60,Occasional,Never,4,5,22,37,30,Yes
+217,32,Female,High School,Unemployed,46700,18.7,Yes,No,"2, 0",8,90,Never,Current,5,6,24,25,33,No
+218,33,Male,High School,Unemployed,46800,18.8,No,No,"3, 1",9,120,Never,Current,6,7,26,27,36,No
+219,34,Female,College,Unemployed,46900,18.9,No,No,"4, 2",7,150,Never,Never,4,8,28,29,39,No
+220,25,Male,High School,Employed full-time,47000,18.5,No,No,"0, 3",8,60,Occasional,Former,5,5,20,31,42,No
+221,26,Female,High School,Unemployed,47100,18.6,No,No,"1, 4",9,90,Never,Current,6,6,22,33,45,No
+222,27,Male,College,Unemployed,47200,18.7,No,Yes,"2, 5",7,120,Never,Never,4,7,24,35,30,No
+223,28,Female,High School,Unemployed,47300,18.8,No,No,"3, 6",8,150,Never,Current,5,8,26,37,33,No
+224,29,Male,High School,Unemployed,47400,18.9,Yes,No,"4, 0",9,60,Occasional,Current,6,5,28,25,36,Yes
+225,30,Female,College,Employed full-time,47500,18.5,No,No,"0, 1",7,90,Never,Never,4,6,20,27,39,No
+226,31,Male,High School,Unemployed,47600,18.6,No,No,"1, 2",8,120,Never,Current,5,7,22,29,42,No
+227,32,Female,High School,Unemployed,47700,18.7,No,No,"2, 3",9,150,Never,Current,6,8,24,31,45,No
+228,33,Male,College,Unemployed,47800,18.8,No,Yes,"3, 4",7,60,Occasional,Never,4,5,26,33,30,No
+229,34,Female,High School,Unemployed,47900,18.9,No,No,"4, 5",8,90,Never,Current,5,6,28,35,33,No
+230,25,Male,High School,Employed full-time,48000,18.5,No,No,"0, 6",9,120,Never,Former,6,7,20,37,36,No
+231,26,Female,College,Unemployed,48100,18.6,Yes,No,"1, 0",7,150,Never,Never,4,8,22,25,39,No
+232,27,Male,High School,Unemployed,48200,18.7,No,No,"2, 1",8,60,Occasional,Current,5,5,24,27,42,Yes
+233,28,Female,High School,Unemployed,48300,18.8,No,No,"3, 2",9,90,Never,Current,6,6,26,29,45,No
+234,29,Male,College,Unemployed,48400,18.9,No,Yes,"4, 3",7,120,Never,Never,4,7,28,31,30,No
+235,30,Female,High School,Employed full-time,48500,18.5,No,No,"0, 4",8,150,Never,Former,5,8,20,33,33,No
+236,31,Male,High School,Unemployed,48600,18.6,No,No,"1, 5",9,60,Occasional,Current,6,5,22,35,36,No
+237,32,Female,College,Unemployed,48700,18.7,No,No,"2, 6",7,90,Never,Never,4,6,24,37,39,No
+238,33,Male,High School,Unemployed,48800,18.8,Yes,No,"3, 0",8,120,Never,Current,5,7,26,25,42,No
+239,34,Female,High School,Unemployed,48900,18.9,No,No,"4, 1",9,150,Never,Current,6,8,28,27,45,No
+240,25,Male,College,Employed full-time,49000,18.5,No,Yes,"0, 2",7,60,Occasional,Never,4,5,20,29,30,Yes
+241,26,Female,High School,Unemployed,49100,18.6,No,No,"1, 3",8,90,Never,Current,5,6,22,31,33,No
+242,27,Male,High School,Unemployed,49200,18.7,No,No,"2, 4",9,120,Never,Current,6,7,24,33,36,No
+243,28,Female,College,Unemployed,49300,18.8,No,No,"3, 5",7,150,Never,Never,4,8,26,35,39,No
+244,29,Male,High School,Unemployed,49400,18.9,No,No,"4, 6",8,60,Occasional,Current,5,5,28,37,42,No
+245,30,Female,High School,Employed full-time,49500,18.5,Yes,No,"0, 0",9,90,Never,Former,6,6,20,25,45,No
+246,31,Male,College,Unemployed,49600,18.6,No,Yes,"1, 1",7,120,Never,Never,4,7,22,27,30,No
+247,32,Female,High School,Unemployed,49700,18.7,No,No,"2, 2",8,150,Never,Current,5,8,24,29,33,No
+248,33,Male,High School,Unemployed,49800,18.8,No,No,"3, 3",9,60,Occasional,Current,6,5,26,31,36,Yes
+249,34,Female,College,Unemployed,49900,18.9,No,No,"4, 4",7,90,Never,Never,4,6,28,33,39,No
+250,25,Male,High School,Employed full-time,50000,18.5,No,No,"0, 5",8,120,Never,Former,5,7,20,35,42,No
+251,26,Female,High School,Unemployed,50100,18.6,No,No,"1, 6",9,150,Never,Current,6,8,22,37,45,No
+252,27,Male,College,Unemployed,50200,18.7,Yes,Yes,"2, 0",7,60,Occasional,Never,4,5,24,25,30,No
+253,28,Female,High School,Unemployed,50300,18.8,No,No,"3, 1",8,90,Never,Current,5,6,26,27,33,No
+254,29,Male,High School,Unemployed,50400,18.9,No,No,"4, 2",9,120,Never,Current,6,7,28,29,36,No
+255,30,Female,College,Employed full-time,50500,18.5,No,No,"0, 3",7,150,Never,Never,4,8,20,31,39,No
+256,31,Male,High School,Unemployed,50600,18.6,No,No,"1, 4",8,60,Occasional,Current,5,5,22,33,42,Yes
+257,32,Female,High School,Unemployed,50700,18.7,No,No,"2, 5",9,90,Never,Current,6,6,24,35,45,No
+258,33,Male,College,Unemployed,50800,18.8,No,Yes,"3, 6",7,120,Never,Never,4,7,26,37,30,No
+259,34,Female,High School,Unemployed,50900,18.9,Yes,No,"4, 0",8,150,Never,Current,5,8,28,25,33,No
+260,25,Male,High School,Employed full-time,51000,18.5,No,No,"0, 1",9,60,Occasional,Former,6,5,20,27,36,No
+261,26,Female,College,Unemployed,51100,18.6,No,No,"1, 2",7,90,Never,Never,4,6,22,29,39,No
+262,27,Male,High School,Unemployed,51200,18.7,No,No,"2, 3",8,120,Never,Current,5,7,24,31,42,No
+263,28,Female,High School,Unemployed,51300,18.8,No,No,"3, 4",9,150,Never,Current,6,8,26,33,45,No
+264,29,Male,College,Unemployed,51400,18.9,No,Yes,"4, 5",7,60,Occasional,Never,4,5,28,35,30,Yes
+265,30,Female,High School,Employed full-time,51500,18.5,No,No,"0, 6",8,90,Never,Former,5,6,20,37,33,No
+266,31,Male,High School,Unemployed,51600,18.6,Yes,No,"1, 0",9,120,Never,Current,6,7,22,25,36,No
+267,32,Female,College,Unemployed,51700,18.7,No,No,"2, 1",7,150,Never,Never,4,8,24,27,39,No
+268,33,Male,High School,Unemployed,51800,18.8,No,No,"3, 2",8,60,Occasional,Current,5,5,26,29,42,No
+269,34,Female,High School,Unemployed,51900,18.9,No,No,"4, 3",9,90,Never,Current,6,6,28,31,45,No
+270,25,Male,College,Employed full-time,52000,18.5,No,Yes,"0, 4",7,120,Never,Never,4,7,20,33,30,No
+271,26,Female,High School,Unemployed,52100,18.6,No,No,"1, 5",8,150,Never,Current,5,8,22,35,33,No
+272,27,Male,High School,Unemployed,52200,18.7,No,No,"2, 6",9,60,Occasional,Current,6,5,24,37,36,Yes
+273,28,Female,College,Unemployed,52300,18.8,Yes,No,"3, 0",7,90,Never,Never,4,6,26,25,39,No
+274,29,Male,High School,Unemployed,52400,18.9,No,No,"4, 1",8,120,Never,Current,5,7,28,27,42,No
+275,30,Female,High School,Employed full-time,52500,18.5,No,No,"0, 2",9,150,Never,Former,6,8,20,29,45,No
+276,31,Male,College,Unemployed,52600,18.6,No,Yes,"1, 3",7,60,Occasional,Never,4,5,22,31,30,No
+277,32,Female,High School,Unemployed,52700,18.7,No,No,"2, 4",8,90,Never,Current,5,6,24,33,33,No
+278,33,Male,High School,Unemployed,52800,18.8,No,No,"3, 5",9,120,Never,Current,6,7,26,35,36,No
+279,34,Female,College,Unemployed,52900,18.9,No,No,"4, 6",7,150,Never,Never,4,8,28,37,39,No
+280,25,Male,High School,Employed full-time,53000,18.5,Yes,No,"0, 0",8,60,Occasional,Former,5,5,20,25,42,Yes
+281,26,Female,High School,Unemployed,53100,18.6,No,No,"1, 1",9,90,Never,Current,6,6,22,27,45,No
+282,27,Male,College,Unemployed,53200,18.7,No,Yes,"2, 2",7,120,Never,Never,4,7,24,29,30,No
+283,28,Female,High School,Unemployed,53300,18.8,No,No,"3, 3",8,150,Never,Current,5,8,26,31,33,No
+284,29,Male,High School,Unemployed,53400,18.9,No,No,"4, 4",9,60,Occasional,Current,6,5,28,33,36,No
+285,30,Female,College,Employed full-time,53500,18.5,No,No,"0, 5",7,90,Never,Never,4,6,20,35,39,No
+286,31,Male,High School,Unemployed,53600,18.6,No,No,"1, 6",8,120,Never,Current,5,7,22,37,42,No
+287,32,Female,High School,Unemployed,53700,18.7,Yes,No,"2, 0",9,150,Never,Current,6,8,24,25,45,No
+288,33,Male,College,Unemployed,53800,18.8,No,Yes,"3, 1",7,60,Occasional,Never,4,5,26,27,30,Yes
+289,34,Female,High School,Unemployed,53900,18.9,No,No,"4, 2",8,90,Never,Current,5,6,28,29,33,No
+290,25,Male,High School,Employed full-time,54000,18.5,No,No,"0, 3",9,120,Never,Former,6,7,20,31,36,No
+291,26,Female,College,Unemployed,54100,18.6,No,No,"1, 4",7,150,Never,Never,4,8,22,33,39,No
+292,27,Male,High School,Unemployed,54200,18.7,No,No,"2, 5",8,60,Occasional,Current,5,5,24,35,42,No
+293,28,Female,High School,Unemployed,54300,18.8,No,No,"3, 6",9,90,Never,Current,6,6,26,37,45,No
+294,29,Male,College,Unemployed,54400,18.9,Yes,Yes,"4, 0",7,120,Never,Never,4,7,28,25,30,No
+295,30,Female,High School,Employed full-time,54500,18.5,No,No,"0, 1",8,150,Never,Former,5,8,20,27,33,No
+296,31,Male,High School,Unemployed,54600,18.6,No,No,"1, 2",9,60,Occasional,Current,6,5,22,29,36,Yes
+297,32,Female,College,Unemployed,54700,18.7,No,No,"2, 3",7,90,Never,Never,4,6,24,31,39,No
+298,33,Male,High School,Unemployed,54800,18.8,No,No,"3, 4",8,120,Never,Current,5,7,26,33,42,No
+299,34,Female,High School,Unemployed,54900,18.9,No,No,"4, 5",9,150,Never,Current,6,8,28,35,45,No
+300,25,Male,College,Employed full-time,55000,18.5,No,Yes,"0, 6",7,60,Occasional,Never,4,5,20,37,30,No
